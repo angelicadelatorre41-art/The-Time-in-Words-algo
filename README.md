@@ -1,1 +1,1 @@
-# The-Time-in-Words-algo
+# The-Time-in-Words-algo The function handles special cases like o' clock, quarter past, half past, and quarter to, while converting numbers to words using a lookup array. For other times, it constructs phrases such as "x minutes past hour" or "x minutes to next hour" depending on whether m is less than or greater than 30.
